@@ -47,4 +47,3 @@ I enjoy working with code, data, and algorithms to build clean, efficient soluti
 
 ---
 
-<img src="https://raw.githubusercontent.com/lamarbahaydan/lamarbahaydan/output/snake.svg" alt="snake animation"/>
